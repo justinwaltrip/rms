@@ -20,7 +20,7 @@ fork = "0.2"
 tauri-plugin-fs = "2.0.0-rc"
 tauri-plugin-shell = "2.0.0-rc"
 tauri-plugin-dialog = "2.0.3"
-tauri-plugin-os = "2.0.0-rc"
+tauri-plugin-os = "2.2.1"
 tauri-plugin-icloud = { git = "https://github.com/justinwaltrip/tauri-plugin-icloud.git" }
 
 [target.'cfg(target_os = "macos")'.dependencies]
